@@ -1,4 +1,4 @@
-# Icepool
+# GemstudedFork
 
 Hello friends and welcome to “Icepool”. “Icepool” is a collection of recovered and recreated Spineworld assets and artwork.
 
